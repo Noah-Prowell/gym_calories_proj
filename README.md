@@ -7,7 +7,7 @@ This dataset gives an overview of gym members exercise routines, physical attrib
 
 There is a very strong correclation between session duration and calories burned as shown below.
 
-![duration scatter](images/cals_vs_duration_scat.pdf)<br>
+[duration scatter](images/cals_vs_duration_scat.pdf)<br>
 
 There is also a very large increase in the number of calories burned and the experience level of the partricipant as seen below. Level 3 participants minimum calories burned is very near the median and mean of the level 2 number of calories burned. This makes sense as the higher experience level participants have the higher average session duration. 
 
