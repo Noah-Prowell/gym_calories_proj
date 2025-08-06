@@ -24,7 +24,7 @@ My initial model will be a linear regression to set a baseline result. All categ
 
 Inital finding is that a linear model does very well at predicting calories burned. The initial run was done with a 20% hold out for a testing dataset. The linear model achieved an R2 score of .9803 and a MAE of 30.27. Meaning the actual and predicted values of our target column, calories burned, are very correlated with each other. And on average the linear model is off by 30 calories per prediciton. <br>
 
-![Linear Predictions](images/linear_predictions.png "Linear Predictions")
+![Linear Predictions](images/linear_predicitions.png "Linear Predictions")
 
 The residuals analysis was also very promising. The residuals plot show a good scatter around the zero line showing good linearity within the model. There is no correlation shown in the data as well showing independence of the features. <br>
 
